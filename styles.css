@@ -1,0 +1,44 @@
+body{
+    .centralizar{
+        text-align: center;
+    }
+    h1{
+        text-align: center;
+        color: white;
+        background-color: #10884D;;
+        border-radius: 10px;
+        padding: 20px
+        
+    }
+    .imagem{
+       
+            border-radius: 10px;
+            border-radius: 10px;
+            border: 4px solid white;
+            border-style: double;
+            background-color: #10884D;
+            display: flex;
+            align-items: center; 
+            gap: 20px; /* Espaço imagem e texto */
+            padding: 20px;
+            margin: 3px;
+    }
+    
+        p {
+            text-decoration: underline;
+            text-decoration-color: #fafafa;
+            text-decoration-thickness: 3px; 
+            font-size: 20px;
+            color: #fafafa;
+        
+    }
+    background-color: green;
+     
+    
+    .img{
+        border-radius: 10px;
+        border: 14px solid white;
+        border-style: double;
+     }    
+    
+}
